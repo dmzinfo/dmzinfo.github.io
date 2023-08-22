@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="198px" height="48px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 7.489 1.813"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="430" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
+	<font-face 
+		font-family="Countach">
+		<font-face-src>
+			<font-face-name name="Countach Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="D" horiz-adv-x="440" d="M415.01 600.015c0,76.0022 -33.9999,104.007 -78.0007,120.003l-312.007 0 0 -720.018 312.007 0c44.0008,16.0007 78.0007,44.0008 78.0007,120.003l0 480.012zm-170.004 -9.99671l10.001 -10.001 0 -440.013 -10.001 -10.001 -60.0015 0 0 460.015 60.0015 0z"/>
+   <glyph unicode="F" horiz-adv-x="380" d="M345.008 280.01l0 150.002 -160.003 0 0 140.005 170.004 0 0 150.002 -330.006 0 0 -720.018 160.003 0 0 280.01 160.003 0z"/>
+   <glyph unicode="I" horiz-adv-x="270" d="M245.007 0l0 150.006 -29.9986 0 0 420.011 29.9986 0 0 150.002 -220.004 0 0 -150.002 29.9986 0 0 -420.011 -29.9986 0 0 -150.006 220.004 0z"/>
+   <glyph unicode="M" horiz-adv-x="580" d="M230.005 250.007l120.003 0 50.0048 160.003 5.00048 0 0 -410.01 150.002 0 0 720.018 -175.004 0 -85.0039 -250.007 -10.001 0 -84.9997 250.007 -175.004 0 0 -720.018 150.002 0 0 410.01 5.00048 0 50.0006 -160.003z"/>
+   <glyph unicode="N" horiz-adv-x="440" d="M275.009 406.013l-10.001 0 -100.005 314.006 -140.001 0 0 -720.018 140.001 0 0 314.01 10.001 0 100.005 -314.01 140.001 0 0 720.018 -140.001 0 0 -314.006z"/>
+   <glyph unicode="O" horiz-adv-x="440" d="M415.01 600.015c0,76.0022 -33.9999,104.007 -78.0007,120.003l-234.006 0c-44.0008,-15.9964 -78.0007,-44.0008 -78.0007,-120.003l0 -480.012c0,-76.0022 33.9999,-104.002 78.0007,-120.003l234.006 0c44.0008,16.0007 78.0007,44.0008 78.0007,120.003l0 480.012zm-160.003 -460.01l-10.001 -10.001 -50.0006 0 -10.001 10.001 0 440.013 10.001 10.001 50.0006 0 10.001 -10.001 0 -440.013z"/>
+   <glyph unicode="Z" horiz-adv-x="440" d="M25.0024 130.004l0 -130.004 390.008 0 0 150.006 -210.003 0 210.003 440.013 0 130 -390.008 0 0 -150.002 210.003 0 -210.003 -440.013z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Countach";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil1 {fill:#D6D6D4}
+    .fil0 {fill:#E9B72F}
+    .fnt0 {font-weight:bold;font-size:2.518px;font-family:'Countach'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(1 0 0 1 98.9372 41.4484)">
+   <text x="-99" y="-39.635"  class="fil0 fnt0">DMZ</text>
+  </g>
+  <g transform="matrix(1 0 0 1 102.699 41.4484)">
+   <text x="-99" y="-39.635"  class="fil1 fnt0">INFO</text>
+  </g>
+ </g>
+</svg>
